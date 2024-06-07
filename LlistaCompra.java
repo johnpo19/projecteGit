@@ -21,6 +21,9 @@ public class LlistaCompra {
         llista.add("Ous");
         llista.add("Formatge");
         llista.add("Tomàquets");
+        llista.add("helado de pistacho");
+        llista.add("magunm almendrado");
+        llista.add("magnum choco blanco");
 
         // Mostrar la llista de la compra
         System.out.println("Llista de la compra:");
