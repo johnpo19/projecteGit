@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  *
- * @author raulvallez
+ * V1.1
  */
 
 public class LlistaCompra {
@@ -21,6 +21,7 @@ public class LlistaCompra {
         llista.add("Ous");
         llista.add("Formatge");
         llista.add("Tomàquets");
+        llista.add("Arroz");
 
         // Mostrar la llista de la compra
         System.out.println("Llista de la compra:");
