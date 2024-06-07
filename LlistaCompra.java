@@ -24,6 +24,9 @@ public class LlistaCompra {
         llista.add("helado de pistacho");
         llista.add("magunm almendrado");
         llista.add("magnum choco blanco");
+        llista.add("camiseta flash");
+        llista.add("camiseta batman");
+        llista.add("camsieta iron man");
 
         // Mostrar la llista de la compra
         System.out.println("Llista de la compra:");
