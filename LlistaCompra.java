@@ -27,5 +27,10 @@ public class LlistaCompra {
         for (String article : llista) {
             System.out.println("- " + article);
         }
+        
+        //1:
+        llista.add("DVD aquaman");
+        llista.add("DVD spiderman");
+        llista.add("DVD hulk");
     }
 }
